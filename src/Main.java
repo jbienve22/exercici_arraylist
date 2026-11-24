@@ -56,5 +56,4 @@ void main() {
         System.out.println("Notes: " + notesAlumnes);
     }
 
-    sc.close();
 }
